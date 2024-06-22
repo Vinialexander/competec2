@@ -24,8 +24,8 @@ public class Desafio3EntradaSaidaArranjos {
 
         int valor [] = new int [num];
 
-        for(int x=0;x<num;i++) {
-            System.out.println(x);
+        for(int i = 1;i<=valor.length;i++) {
+            System.out.println(i);
         }
 	}
 }

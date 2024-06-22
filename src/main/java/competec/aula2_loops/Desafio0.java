@@ -11,5 +11,6 @@ public class Desafio0 {
 		// teste se o número é par. Dica: lembre-se do operador '%', que retorna o resto da divisão entre dois números.
 		
 		// imprima o resultado da operação (se o número digitado é par ou ímpar).
+		
 	}
 }
